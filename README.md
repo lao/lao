@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm a Software Engineer
+# 👋 Hello, I'm Lucas A.O., a Software Engineer
 
 **Cloud architect and full-stack developer passionate about building scalable solutions and empowering teams.**
 
