@@ -17,6 +17,15 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🚀 About Me
+I'm a Senior Software Engineer with extensive experience in cloud architecture and full-stack development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building robust, scalable applications using modern tech stacks and cloud-native solutions.
+
+## 🌱 Currently
+- Working on innovative projects at Woflow
+- Exploring new technologies in AI and cloud computing
+- Contributing to open-source projects
+- Sharing knowledge and experiences through mentorship
+
 ## 💻 Expertise
 
 <div style="display: flex; gap: 20px;">
@@ -51,15 +60,6 @@
 
 </div>
 </div>
-
-## 🚀 About Me
-I'm a Senior Software Engineer with extensive experience in cloud architecture and full-stack development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building robust, scalable applications using modern tech stacks and cloud-native solutions.
-
-## 🌱 Currently
-- Working on innovative projects at Woflow
-- Exploring new technologies in AI and cloud computing
-- Contributing to open-source projects
-- Sharing knowledge and experiences through mentorship
 
 ## 🎮 Fun Facts & Hobbies
 - **Card Games**: Love a good game of cards - always up for a challenge! 🃏
