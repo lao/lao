@@ -72,3 +72,5 @@ I'm a Senior Software Engineer with extensive experience in cloud architecture a
 Feel free to reach out for collaborations or just a chat about technology!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lao&color=brightgreen)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
