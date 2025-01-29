@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-**Cloud architect and full-stack developer passionate about building scalable solutions and empowering teams.**
+**Cloud architect and full-stack engineer passionate about building scalable solutions and empowering teams.**
 
 ## 🚀 About Me
-I'm a Senior Software Engineer with extensive experience in cloud architecture and full-stack development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building robust, scalable applications using modern tech stacks and cloud-native solutions.
+I'm an Engineer with extensive experience in cloud architecture and full-stack web development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building robust, scalable applications using modern tech stacks and cloud-native solutions.
 
 ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
