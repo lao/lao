@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-**Cloud architect and full-stack engineer passionate about building scalable solutions and empowering teams.**
+**Cloud and full-stack engineer passionate about building scalable solutions and empowering teams.**
 
 ## 🚀 About Me
-I'm an Engineer with extensive experience in cloud architecture and full-stack web development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building robust, scalable applications using modern tech stacks and cloud-native solutions.
+I'm an Engineer with extensive experience in cloud and full-stack web development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building scalable applications using modern tech stacks and cloud-native solutions.
 
 ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -39,13 +39,11 @@ I'm an Engineer with extensive experience in cloud architecture and full-stack w
 ## 💻 Currently
 - Working on innovative projects at Woflow
 - Exploring new technologies in AI and cloud computing
-- Contributing to open-source projects
 - Sharing knowledge and experiences through mentorship
 
 ## 🎮 Fun Facts & Hobbies
 - **Card Games**: Love a good game of cards - always up for a challenge! 🃏
 - **Water Sports**: Enthusiastic stand-up paddleboarder exploring waterways 🏄‍♂️
-- **Fitness**: Regular gym-goer and basketball player keeping active 🏀💪
 - **Creative**: Woodworking hobbyist crafting pieces in my spare time 🪚
 - **Music**: Passionate about music - it's my coding companion 🎵
 
