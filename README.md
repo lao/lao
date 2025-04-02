@@ -50,6 +50,9 @@ I'm passionate about mentoring up-and-coming tech talent and have a knack for wo
 - **Creative**: Woodworking hobbyist crafting pieces in my spare time 🪚
 - **Music**: Passionate about music - it's my coding companion 🎵
 
+## 📚 Relevant links
+- **Ruby - Blog post**: [Achieving Reliable Zero Downtime Re-indexing with Searchkick](https://www.woflow.com/post/achieving-reliable-zero-downtime-re-indexing-with-searchkick)
+
 ## 📫 Connect With Me
 Feel free to reach out for collaborations or just a chat about technology: 
 
