@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-**Cloud and full-stack engineer passionate about building scalable solutions and empowering teams.**
+**Full-stack Engineer passionate about building scalable solutions and empowering teams.**
 
 ## 🚀 About Me
 I'm an Engineer with extensive experience in cloud and full-stack web development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building scalable applications using modern tech stacks and cloud-native solutions.
