@@ -7,7 +7,9 @@
 **Full-stack Engineer passionate about building scalable solutions and empowering teams.**
 
 ## 🚀 About Me
-I'm an Engineer with extensive experience in cloud and full-stack web development. My journey spans from Brazil to the Netherlands and Spain, working with diverse teams and technologies. I specialize in building scalable applications using modern tech stacks and cloud-native solutions.
+I'm an Engineer with extensive experience in cloud and full-stack web development. My global adventure has taken me across continents - from the beaches of Brazil to the canals of the Netherlands, the vibrant streets of Spain, the bustling tech hubs of China and the USA, and even to the magical spires of Prague! While moving/traveling I specialized in building scalable applications using modern tech stacks and cloud-native solutions while excelling in debugging and problem-solving. With expertise in multiple programming languages, I consistently deliver efficient, user-friendly applications both in collaborative environments and when flying solo. ✈️ 
+
+I'm passionate about mentoring up-and-coming tech talent and have a knack for working independently - give me a challenge and watch me shine on my own while still being a team player when the project calls for collaboration! 🤝
 
 ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -37,9 +39,10 @@ I'm an Engineer with extensive experience in cloud and full-stack web developmen
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
 ## 💻 Currently
-- Working on innovative projects at Woflow
+- Working on innovative projects at [Woflow](https://www.woflow.com/)
 - Exploring new technologies in AI and cloud computing
 - Sharing knowledge and experiences through mentorship
+- Building some personal projects
 
 ## 🎮 Fun Facts & Hobbies
 - **Card Games**: Love a good game of cards - always up for a challenge! 🃏
