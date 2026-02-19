@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+hello+👋+;Nice+to+meet+you!;I+am+Lucas+Oliveira+👋&center=true&size=30&repeat=false">
-  </a>
-</h1>
-
 **Full-stack Engineer passionate about building scalable solutions and empowering teams.**
 
 ## 🚀 About Me
