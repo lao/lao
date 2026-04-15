@@ -33,7 +33,6 @@ I'm passionate about mentoring up-and-coming tech talent and have a knack for wo
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
 ## 💻 Currently
-- Working on innovative projects at [Woflow](https://www.woflow.com/)
 - Exploring new technologies in AI and cloud computing
 - Sharing knowledge and experiences through mentorship
 - Building some personal projects
